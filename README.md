@@ -24,7 +24,7 @@ To get started with TrustyHash, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/trustyhash.git
+   git clone https://github.com/TrustyHash/app.git
 
    ```
 
